@@ -1,4 +1,4 @@
-# CST117 Weel 1 Homework
+# CST117 Week 1 Homework
 ## Objective:
 
 In Computing with C# and the .NET Framework, complete the following exercises at the end of the chapters:
